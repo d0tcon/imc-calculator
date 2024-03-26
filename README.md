@@ -1,4 +1,4 @@
-# Financial Control
+# IMC CALCULATOR
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/d0tcon/imc-calculator/blob/main/LICENSE) 
 
 # Sobre o projeto
