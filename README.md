@@ -5,9 +5,9 @@
 
 https://imc-calculator-gray-eta.vercel.app
 
-IMC Calculator é um aplicativo Web feito para calcular de forma rápida o seu IMC
+IMC Calculator é um aplicativo Web feito para calcular de forma rápida o seu IMC.
 
-No final do calculo, a aplicação mostra seu IMC, qual sua classificação e também lhe mostra uma pequena tabela de classificações com os dados atualizados pela Datasus
+No final do calculo, a aplicação mostra seu IMC, qual sua classificação e também lhe mostra uma pequena tabela de classificações com os dados atualizados pelo Datasus.
 
 ## Layout mobile
 ![Mobile 1](https://github.com/d0tcon/images/blob/main/mobile%20imc%201.png) ![Mobile 2](https://github.com/d0tcon/images/blob/main/mobile%20imc%202.png)
